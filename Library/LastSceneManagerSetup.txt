@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/MainWindow.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/AddingPattern.unity
+  isLoaded: 0
+  isActive: 0
